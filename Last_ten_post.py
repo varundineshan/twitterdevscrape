@@ -13,10 +13,10 @@ import numpy as np
 # In[53]:
 
 
-consumer_key= 'Kzzmf7XB9oZCvjOEtMzamLLlx'
-consumer_secret= 'Y2YQTkTjhjPQUFzGKsF6tk8gbPlH4ndkOgBVCCft2Xx8qyL3cA'
-access_token= '1263115900733001733-zawsh3VoElT6KMcZ3vJiXnYchquHJg'
-access_token_secret= '0Ht7ZyTxvL04crIhBJl32CYHPYVBOLeaeGMZHXkvqmooK'
+consumer_key= 'Kzzmf7XXXXXXXXXXXXXXXXXXXXXXXXXXXXXzamLLlx'
+consumer_secret= 'Y2YXXXXXXXXXXXXXXXXXXXXL3cA'
+access_token= '126XXXXXXXXXXXXXXXXXXXXHJg'
+access_token_secret= '0HXXXXXXXXXXXXXXXXXXXXK'
 
 
 # In[54]:
